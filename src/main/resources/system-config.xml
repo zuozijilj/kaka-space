@@ -1,0 +1,6 @@
+<!--base path-->
+<basePath>http://127.0.0.1/</basePath>
+<!--static path-->
+<staticPath>http://127.0.0.1/</staticPath>
+<!--mongo config-->
+<mongo></mongo>
